@@ -1,0 +1,4 @@
+To run these tests you need UnitTest++:
+http://unittest-cpp.sourceforge.net/
+
+You'll also need to adapt the #include paths

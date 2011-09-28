@@ -1,0 +1,3 @@
+This is a lightweight memory file system originally developped for the Gannet Virtual Machine.
+Proposed architecture: Wim Vanderbauwhede, actual architecture and implementation: Galih Kanigoro
+(c) 2009,2011 Galih Kanigoro, Wim Vanderbauwhede
